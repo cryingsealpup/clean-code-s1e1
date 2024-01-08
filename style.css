@@ -18,7 +18,8 @@
 }
 
 @media (max-width: 768px) {
-  .container { text-align: center;
+  .container { 
+    text-align: center;
   }
 }
 .container {
